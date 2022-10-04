@@ -82,6 +82,9 @@ public class App {
     //todo Task 9
     public void leapyear(){
         // input your solution here
+
+        System.out.println("Year: Not a Leapyear");
+
     }
 
     //todo Task 10

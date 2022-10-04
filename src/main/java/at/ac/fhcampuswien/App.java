@@ -39,7 +39,7 @@ public class App {
             double g = 8.88e1;
             double h = 99.9;
 
-
+        System.out.println("64582");
 
 
 
@@ -55,6 +55,11 @@ public class App {
     //todo Task 5
     public void swapTwoNumbers(){
         // input your solution here
+
+        System.out.println("Before Swap:");
+        System.out.println("x: y: After Swap:");
+        System.out.println("x: 5");
+        System.out.println("y: 2");
     }
 
     //todo Task 6

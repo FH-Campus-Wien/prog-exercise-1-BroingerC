@@ -14,15 +14,15 @@ public class App {
     public void helloRobot(){
         // input your solution here
         System.out.println("0123456789012345678901");
-        System.out.println("lnlnlnlnlnlnlnlnln__lnlnlnlnlnlnlnlnlnlnln");
-        System.out.println("ln_('\'lnlnlnln|@@|lnlnlnlnlnlnlnlnlnln");
-        System.out.println("(__/'\'__ln'\'--/ln__lnlnlnlnlnlnln");
-        System.out.println("lnlnln'\'____|----|lnln|lnlnln__ln");
-        System.out.println("lnlnlnlnlnlnln'\'ln}{ln/'\'ln)_ln/ln_'\'");
-        System.out.println("lnlnlnlnlnlnln/'\'__/'\'ln'\'__oln(__");
-        System.out.println("lnlnlnlnlnln(--/'\'--)lnlnlnln'\'__/");
-        System.out.println("lnlnlnlnlnln_)(lnln)(_lnlnlnlnlnlnlnln");
-        System.out.println("lnlnlnlnln``--''---`lnlnlnlnlnlnln");
+        System.out.println("         __           ");
+        System.out.println(" _(\\    |@@|          ");
+        System.out.println("(__/\\__ \\--/ __       ");
+        System.out.println("   \\___|----|  |   __ ");
+        System.out.println("       \\ }{ /\\ )_ / _\\");
+        System.out.println("       /\\__/\\ \\__O (__");
+        System.out.println("      (--/\\--)     \\__/");
+        System.out.println("      _)(  )(_        ");
+        System.out.println("     `---''---`       ");
     }
 
     //todo Task 3

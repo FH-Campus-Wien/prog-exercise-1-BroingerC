@@ -13,7 +13,16 @@ public class App {
     //todo Task 2
     public void helloRobot(){
         // input your solution here
-
+        System.out.println("0123456789012345678901");
+        System.out.println("lnlnlnlnlnlnlnlnln__lnlnlnlnlnlnlnlnlnlnln");
+        System.out.println("ln_('\'lnlnlnln|@@|lnlnlnlnlnlnlnlnlnln");
+        System.out.println("(__/'\'__ln'\'--/ln__lnlnlnlnlnlnln");
+        System.out.println("lnlnln'\'____|----|lnln|lnlnln__ln");
+        System.out.println("lnlnlnlnlnlnln'\'ln}{ln/'\'ln)_ln/ln_'\'");
+        System.out.println("lnlnlnlnlnlnln/'\'__/'\'ln'\'__oln(__");
+        System.out.println("lnlnlnlnlnln(--/'\'--)lnlnlnln'\'__/");
+        System.out.println("lnlnlnlnlnln_)(lnln)(_lnlnlnlnlnlnlnln");
+        System.out.println("lnlnlnlnln``--''---`lnlnlnlnlnlnln");
     }
 
     //todo Task 3
